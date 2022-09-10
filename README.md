@@ -1,4 +1,4 @@
-# facial_recognition_prototype
-Project for studying purpose
-You need to install opencv-python and mediapipe as mp
+# facial_recognition_prototype <br>
+Project for studying purpose <br>
+You need to install opencv-python and mediapipe as mp <br>
  
