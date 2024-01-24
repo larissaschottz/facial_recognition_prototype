@@ -23,8 +23,7 @@
 
     <ol>
         <li>**Clone the repository:**</li>
-        <pre><code>git clone https://github.com/your-username/your-repo.git
-cd your-repo</code></pre>
+        <pre><code>git clone https://github.com/your-username/your-repo.git cd your-repo</code></pre>
 
         <li>**Run the script:**</li>
         <pre><code>python face_detection.py</code></pre>
